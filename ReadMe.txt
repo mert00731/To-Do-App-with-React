@@ -1,0 +1,3 @@
+-Open terminal
+-Execute 'npm install' command
+-Execute 'npm start'
